@@ -7,7 +7,7 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed. 
   # SP Buid ID below by sebas
-  version: "9d4e14c3-ae0a-4187-9d98-7ec6fa271f1b"
+  version: "f6b7a251-9302-45b0-8b24-cec4cda1d686"
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
